@@ -1,1 +1,2 @@
 about
+Git is scaring me
